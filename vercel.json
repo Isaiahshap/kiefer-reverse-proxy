@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "https://yeshayas1.sg-host.com/$1"
+      }
+    ]
+  }
+  
